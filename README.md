@@ -26,10 +26,11 @@
 
 ## Pros of building PWA's
 
+* Is web! (No need to maintain different codebases)
 * Increases engagement on iOS users
-* No updates required
-* Search engine indexed
-* Home screen installation
+* Easy updates, no need to deal with app stores (Licensing, updates t&cs...ect.)
+* Search engine indexed / Easy to discorver
+* Home screen installation / No need to download them
 * Alllow starting smaller and scale
 * Better for people with slow phones / connection
 * Faster development
@@ -40,20 +41,6 @@
 * Apple's Service workers support
 * Microsoft's Push notifications support
 * Communication across other apps
-
-## Pros of building Native Apps
-
-* UX experience
-* Device capabilities (Access to Calendar, Music...etc.)
-
-## Cons of building Native Apps
-
-* Not easy to discover
-* Need to be downloaded
-* Manage app stores (Licensing, updates...etc.)
-* Learning curve on new technologies
-* Native can be transitional, web is always going to be with us
-* React Native is still defining itself
-* There is 22% reduction on app downloads over browsing web
-* Building features "twice" (Maintaining web and native at the same time)
+* UX experience is not native
+* Not all devices capabilities are supported (But they will be)
 
